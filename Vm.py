@@ -4,7 +4,7 @@ os.system('git pull')
 
 try:
 
-    __import__("news").menu()
+    __import__("kudus_61").news()
 
 except Exception as e:
 
